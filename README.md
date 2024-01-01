@@ -29,16 +29,6 @@ This repository hosts a series of Jupyter notebooks and a Python script for the 
   - Arabic-Amharic-FT
   - Improved-Arabic-English-Amharic-FT
 
-### Amharic Model Fine-tuning
-- **Notebooks:** `mT5_Amharic_PEFT_Finetuning.ipynb`, `Bounded_Token_Length_mT5_Amharic_PEFT_Finetuning.ipynb`
-- **Features:** 
-  - Fine-tuning mT5-small with Amharic-1, Amharic-2, and Amharic-3 datasets.
-  - Amharic-2 includes normalization steps in preprocessing.
-- **Models Produced:**
-  - Initial-Amharic-FT (using Amharic-1)
-  - Improved-Amharic-FT (using Amharic-2)
-  - Improved-Amharic-FT-2 (using Amharic-3)
-
 ### English Fine-tuning
 - **Notebook:** `mT5_English_PEFT_Finetuning.ipynb`
 - **Process:** 
@@ -49,6 +39,16 @@ This repository hosts a series of Jupyter notebooks and a Python script for the 
   - English-Arabic-FT
   - English-Amharic-FT
   - Improved-English-Arabic-Amharic-FT
+
+### Amharic Model Fine-tuning
+- **Notebooks:** `mT5_Amharic_PEFT_Finetuning.ipynb`, `Bounded_Token_Length_mT5_Amharic_PEFT_Finetuning.ipynb`
+- **Features:** 
+  - Fine-tuning mT5-small with Amharic-1, Amharic-2, and Amharic-3 datasets.
+  - Amharic-2 includes normalization steps in preprocessing.
+- **Models Produced:**
+  - Initial-Amharic-FT (using Amharic-1)
+  - Improved-Amharic-FT (using Amharic-2)
+  - Improved-Amharic-FT-2 (using Amharic-3)
 
 ## Model Evaluation
 - **Notebook:** `Model_Evaluation.ipynb`
