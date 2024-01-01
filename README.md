@@ -6,9 +6,9 @@ This repository hosts a series of Jupyter notebooks and a Python script for the 
 ### Contents
 - `Amharic_Text_Summarization_Data_Aggregation_and_Cleaning.ipynb`
 - `Bounded_Token_Length_mT5_Amharic_PEFT_Finetuning.ipynb`
-- `mT5_Amharic_PEFT_Finetuning.ipynb`
 - `mT5_Arabic_PEFT_Finetuning.ipynb`
 - `mT5_English_PEFT_Finetuning.ipynb`
+- `mT5_Amharic_PEFT_Finetuning.ipynb`
 - `Model_Evaluation.ipynb`
 - `training_module.py`
 
