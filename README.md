@@ -61,5 +61,5 @@ This repository hosts a series of Jupyter notebooks and a Python script for the 
 
 ## Getting Started
 1. Clone the repository.
-2. Follow the instructions in each notebook for fine-tuning and evaluation.
+2. Follow the instructions in each notebook for fine-tuning and evaluation. You may have to install the libraries installed by the first cells of all the notebooks within your environment if they are not already installed.
 ---
