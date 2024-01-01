@@ -45,7 +45,11 @@ This repository hosts a series of Jupyter notebooks and a Python script for the 
   - English-Amharic-FT
   - Improved-English-Arabic-Amharic-FT
 
-### Model Evaluation
+## Data Aggregation and Cleaning
+- **Notebook:** `Amharic_Text_Summarization_Data_Aggregation_and_Cleaning.ipynb`
+- **Purpose:** Gathers, compiles, cleans and preprocesses Amharic data from various sources for model training.
+
+## Model Evaluation
 - **Notebook:** `Model_Evaluation.ipynb`
 - **Purpose:** Quantitative evaluation of fine-tuned models.
 - **Metrics Included:** ROUGE-1, ROUGE-2, ROUGE-L, BLEU, Average Precision, Recall, and F1.
