@@ -3,6 +3,8 @@
 ## Overview
 This repository hosts a series of Jupyter notebooks and a Python script for the fine-tuning and evaluation of the mT5-small model, focusing on Arabic, Amharic, and English languages. The project leverages the IA3 Parameter-Efficient Fine-Tuning (PEFT) technique, to improve the Amharic text summarization capabilities of the mT5 model.
 
+Link to Final Report: [Final Report](https://drive.google.com/file/d/1LivrnwkGAJfmCo6kDLTUJNIoy8RlpRF7/view)
+
 ### Contents
 - `Amharic_Text_Summarization_Data_Aggregation_and_Cleaning.ipynb`
 - `mT5_Arabic_PEFT_Finetuning.ipynb`
